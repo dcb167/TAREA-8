@@ -4,13 +4,17 @@
 
 ### 1. Máquina Virtual de Rocky Linux
 
++ En primer lugar, se realizó se creo la máquina virtual de Rocky Linux como se puede evidenciar enseguida:
+
 <img width="732" height="368" alt="image" src="https://github.com/user-attachments/assets/e5b2639c-f2a9-4662-8dd7-dbd3ca361572" />
 
-<strong> Figura 1. </strong> Opciones interactivas de htop.
+<strong> Figura 1. </strong> Crear la MV de Rocky Linux.
+
++ Luego, se procedió a definir los parámetros que corresponden a la Memoria RAM y Disco Duro del PC de la siguiente forma:
 
 <img width="763" height="377" alt="image" src="https://github.com/user-attachments/assets/5389fcc8-6ce5-40c5-afaa-eb3caeac877f" />
 
-<strong> Figura 2. </strong> Opciones interactivas de htop.
+<strong> Figura 2. </strong> Definición de espacio en Memoria RAM y Disco Duro del PC.
 
 <img width="589" height="294" alt="image" src="https://github.com/user-attachments/assets/f74fdca2-8a39-40e9-ba14-71557653daa0" />
 
