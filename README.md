@@ -44,23 +44,31 @@
 
 <strong> Figura 7. </strong> Ajuste de idioma de Rocky Linux (2).
 
-
++ La siguiente imagen muestra cierta configuración que debe realizarse para Rocky:
 
 <img width="591" height="278" alt="image" src="https://github.com/user-attachments/assets/6322bf93-25c6-4f1f-99ee-f9cfd12cb86a" />
 
-<strong> Figura 8. </strong> Opciones interactivas de htop.
+<strong> Figura 8. </strong> Configuración de Rocky Linux (1).
+
++ Enseguida, se procedió a realizar el ajuste de la contraseña administrativa que tendrá Rocky Linux:
 
 <img width="589" height="231" alt="image" src="https://github.com/user-attachments/assets/30ea43b7-5304-4d83-a82a-ff355cfd14dd" />
 
-<strong> Figura 9. </strong> Opciones interactivas de htop.
+<strong> Figura 9. </strong> Configuración de la Contraseña Administrativa.
+
++ Seguido de ello, se procedió a realizar a crear un usuario en Rocky Linux:
 
 <img width="589" height="216" alt="image" src="https://github.com/user-attachments/assets/469ee002-d32a-4af4-bac7-f227b56cabb0" />
 
-<strong> Figura 10. </strong> Opciones interactivas de htop.
+<strong> Figura 10. </strong> Crear un usuario en Rocky Linux.
+
++ Luego, se configuró el destino de la instalación como se puede visualizar a continuación:
 
 <img width="589" height="269" alt="image" src="https://github.com/user-attachments/assets/1f899e61-80f4-45bb-9491-0d0858ca3524" />
 
-<strong> Figura 11. </strong> Opciones interactivas de htop.
+<strong> Figura 11. </strong> Configuración del Destino de la Instalación.
+
+
 
 <img width="589" height="307" alt="image" src="https://github.com/user-attachments/assets/46d3b3fa-427b-4c4c-a371-7fff17a73ba8" />
 
