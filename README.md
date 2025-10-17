@@ -16,13 +16,17 @@
 
 <strong> Figura 2. </strong> Definición de espacio en Memoria RAM y Disco Duro del PC.
 
++ De tal forma, que el cuadro resumen de lo que se está instalando es el siguiente:
+
 <img width="589" height="294" alt="image" src="https://github.com/user-attachments/assets/f74fdca2-8a39-40e9-ba14-71557653daa0" />
 
-<strong> Figura 3. </strong> Opciones interactivas de htop.
+<strong> Figura 3. </strong> Cuadro Resumen de la MV.
+
++ En la siguiente imagen será posible evidenciar que se creó la Máquina Virtual de Rocky Linux de forma satisfactoria:
 
 <img width="297" height="179" alt="image" src="https://github.com/user-attachments/assets/d9762a23-6a75-436e-8ae1-e547441123ef" />
 
-<strong> Figura 4. </strong> Opciones interactivas de htop.
+<strong> Figura 4. </strong> MV de Rocky Linux.
 
 <img width="589" height="519" alt="image" src="https://github.com/user-attachments/assets/dd61cff5-d4db-450f-8732-097008935858" />
 
