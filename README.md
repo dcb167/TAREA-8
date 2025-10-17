@@ -28,17 +28,23 @@
 
 <strong> Figura 4. </strong> MV de Rocky Linux.
 
++ Iniciando el proceso de instalación se obtiene:
+
 <img width="589" height="519" alt="image" src="https://github.com/user-attachments/assets/dd61cff5-d4db-450f-8732-097008935858" />
 
-<strong> Figura 5. </strong> Opciones interactivas de htop.
+<strong> Figura 5. </strong> Proceso de Instalación de Rocky Linux.
+
++ Luego, se procedió a ajustar el idioma default que va a tener el S.O Rocky Linux de la siguiente manera:
 
 <img width="589" height="315" alt="image" src="https://github.com/user-attachments/assets/898b19d5-c770-4d8b-9332-24bd9b64ac9e" />
 
-<strong> Figura 6. </strong> Opciones interactivas de htop.
+<strong> Figura 6. </strong> Ajuste de idioma de Rocky Linux (1).
 
 <img width="589" height="307" alt="image" src="https://github.com/user-attachments/assets/f0c9ca32-c657-49d9-87f9-93dece42e47e" />
 
-<strong> Figura 7. </strong> Opciones interactivas de htop.
+<strong> Figura 7. </strong> Ajuste de idioma de Rocky Linux (2).
+
+
 
 <img width="591" height="278" alt="image" src="https://github.com/user-attachments/assets/6322bf93-25c6-4f1f-99ee-f9cfd12cb86a" />
 
