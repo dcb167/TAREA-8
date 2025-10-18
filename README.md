@@ -229,18 +229,32 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 42. </strong> Ingreso a Kali Linux de forma exitosa.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 3. Máquina Virtual de Windows
+
+<img width="589" height="469" alt="image" src="https://github.com/user-attachments/assets/05419d9a-d0d9-4521-a706-73557a8aa4e8" />
+
+<img width="589" height="457" alt="image" src="https://github.com/user-attachments/assets/ecfb388c-0990-4bce-9774-13957ce30e85" />
+
+<img width="589" height="465" alt="image" src="https://github.com/user-attachments/assets/536e0450-3ecc-4d5f-b30b-97eabf8027de" />
+
+<img width="589" height="462" alt="image" src="https://github.com/user-attachments/assets/d787c999-4deb-4733-ac6d-af77b62811c7" />
+
+<img width="589" height="414" alt="image" src="https://github.com/user-attachments/assets/7a0f9c0c-6619-453a-a810-d02be9fb2e59" />
+
+<img width="589" height="419" alt="image" src="https://github.com/user-attachments/assets/b404e1fa-011b-4b15-a75f-3e4b4881ed7f" />
+
+<img width="589" height="424" alt="image" src="https://github.com/user-attachments/assets/e66cc9cb-3bfc-4af0-805d-54f7ab320ebc" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
