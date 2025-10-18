@@ -199,7 +199,7 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 36. </strong> Proceso de Selección de programas.
 
-
++ En quinto lugar, 
 
 <img width="798" height="610" alt="image" src="https://github.com/user-attachments/assets/9b1766f9-2972-4ae4-8d14-ca39077187c8" /></br>
 
