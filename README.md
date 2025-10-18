@@ -137,15 +137,17 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 23. </strong> Configuración de la ubicación de Kali Linux.
 
-+ Luego, se procedió la instalación de la interfaz gráfica de Kali Linux:
++ En tercer lugar, se procedió a configurar el teclado de Kali Linux:
 
 <img width="589" height="446" alt="image" src="https://github.com/user-attachments/assets/b36a3aa9-3541-4678-a40c-1a9a47eb04f6" /></br>
 
-<strong> Figura 24. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 24. </strong> Configuración del teclado de Kali Linux.
+
++ Seguido de ello, se procedió a configurar la red de Kali Linux:
 
 <img width="589" height="438" alt="image" src="https://github.com/user-attachments/assets/620c04be-327c-4b0c-98e2-163bf1a8408d" /></br>
 
-<strong> Figura 25. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 25. </strong> Configuración de red de Kali Linux.
 
 <img width="589" height="444" alt="image" src="https://github.com/user-attachments/assets/0b3a91b6-451f-40b2-b6fa-47503f2a0e90" /></br>
 
