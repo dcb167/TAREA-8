@@ -167,25 +167,27 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 29. </strong> Configuración del Usuario y Contraseña en Kali Linux (3).
 
++ Luego, se realizó el proceso de partición de discos:
+
 <img width="592" height="451" alt="image" src="https://github.com/user-attachments/assets/e42b53aa-9910-45f5-83c8-b1d4bcce997c" /></br>
 
-<strong> Figura 30. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 30. </strong> Proceso de Partición de Discos (1).
 
 <img width="589" height="443" alt="image" src="https://github.com/user-attachments/assets/24a78f2e-25a3-46e2-a122-3ab3080775a0" /></br>
 
-<strong> Figura 31. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 31. </strong> Proceso de Partición de Discos (2).
 
 <img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/58c1a53f-b5a7-49ce-8479-29fe59ac1c66" /></br>
 
-<strong> Figura 32. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 32. </strong> Proceso de Partición de Discos (3).
 
 <img width="589" height="450" alt="image" src="https://github.com/user-attachments/assets/20f906cf-1205-479d-a428-e12cce060bbd" /></br>
 
-<strong> Figura 33. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 33. </strong> Proceso de Partición de Discos (4).
 
 <img width="586" height="393" alt="image" src="https://github.com/user-attachments/assets/9ec45a21-fdc7-481c-9075-aef0f070847c" /></br>
 
-<strong> Figura 34. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 34. </strong> Proceso de Partición de Discos (4).
 
 <img width="589" height="448" alt="image" src="https://github.com/user-attachments/assets/61463369-0795-4e83-8901-70c6f83ebaed" /></br>
 
