@@ -84,10 +84,10 @@
 
 <img width="589" height="281" alt="image" src="https://github.com/user-attachments/assets/32491649-81fe-4ba2-9eba-89b79deed253" /></br>
 
+<strong> Figura 15. </strong> Instalación de Rocky Linux (4).
+
 + Por último, es posible evidenciar que el proceso de instalación se efectuó exitosamente. Motivo por el cual, ya se puede ingresar al S.O Rocky Linux usando el usuario creado en los
 pasos anteriores de la siguiente forma:
-
-<strong> Figura 15. </strong> Instalación de Rocky Linux (4).
 
 <img width="589" height="140" alt="image" src="https://github.com/user-attachments/assets/b6677097-3595-4da8-b961-9fe0992c6461" /></br>
 
