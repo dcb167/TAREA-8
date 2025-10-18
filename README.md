@@ -189,10 +189,11 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 34. </strong> Proceso de Partición de Discos (5).
 
-
 <img width="589" height="448" alt="image" src="https://github.com/user-attachments/assets/61463369-0795-4e83-8901-70c6f83ebaed" /></br>
 
-<strong> Figura 35. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 35. </strong> Instalación del sistema base.
+
+
 
 <img width="562" height="442" alt="image" src="https://github.com/user-attachments/assets/c135856e-d172-40cc-bcbc-0f928b7479d6" /></br>
 
