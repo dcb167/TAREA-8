@@ -147,15 +147,17 @@ pasos anteriores de la siguiente forma:
 
 <img width="589" height="438" alt="image" src="https://github.com/user-attachments/assets/620c04be-327c-4b0c-98e2-163bf1a8408d" /></br>
 
-<strong> Figura 25. </strong> Configuración de red de Kali Linux.
+<strong> Figura 25. </strong> Configuración de red de Kali Linux (1).
 
 <img width="589" height="444" alt="image" src="https://github.com/user-attachments/assets/0b3a91b6-451f-40b2-b6fa-47503f2a0e90" /></br>
 
-<strong> Figura 26. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 26. </strong> Configuración de red de Kali Linux (2).
+
++ Se procedió a realizar la configuración del usuario y contraseña de la siguiente manera:
 
 <img width="589" height="445" alt="image" src="https://github.com/user-attachments/assets/083c2227-52e0-4a28-9c80-216af4697339" /></br>
 
-<strong> Figura 27. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 27. </strong> Configuración del Usuario y Contraseña en Kali Linux.
 
 <img width="697" height="531" alt="image" src="https://github.com/user-attachments/assets/570e1bdd-2710-4911-8b2f-bba2f86bf5cc" /></br>
 
