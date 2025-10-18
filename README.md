@@ -125,13 +125,19 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 21. </strong> Instalación de la Interfaz Gráfica de Kali Linux.
 
++ Seguido de ello, se procedió a configurar el lenguaje de Kali Linux:
+
 <img width="589" height="460" alt="image" src="https://github.com/user-attachments/assets/665b43b9-adff-43e9-9298-fcd23bb5f87c" /></br>
 
-<strong> Figura 22. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 22. </strong> Configuración del lenguaje de Kali Linux.
+
++ Enseguida, se configuró la ubicación de Kali Linux:
 
 <img width="589" height="441" alt="image" src="https://github.com/user-attachments/assets/13193151-0c99-4643-808e-8e6df5f86d47" /></br>
 
-<strong> Figura 23. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 23. </strong> Configuración de la ubicación de Kali Linux.
+
++ Luego, se procedió la instalación de la interfaz gráfica de Kali Linux:
 
 <img width="589" height="446" alt="image" src="https://github.com/user-attachments/assets/b36a3aa9-3541-4678-a40c-1a9a47eb04f6" /></br>
 
