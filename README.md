@@ -95,13 +95,21 @@ pasos anteriores de la siguiente forma:
 
 ### 2. Máquina Virtual de Kali Linux
 
++ En primer lugar, se procedió a crear la máquina virtual de Kali Linux como se puede evidenciar enseguida:
+
 <img width="589" height="419" alt="image" src="https://github.com/user-attachments/assets/54181e57-d0b6-49ce-a2e0-08e9965fc07b" /></br>
 
-<strong> Figura 17. </strong> Ingreso a Rocky Linux de forma exitosa.
++ Luego, se realizó la configuración del sistema de Kali Linux de la siguiente manera:
+
+<strong> Figura 17. </strong> Configuración del Sistema de Kali Linux.
 
 <img width="589" height="373" alt="image" src="https://github.com/user-attachments/assets/c8e0497a-f6f8-48e8-bac4-3928087c2a35" /></br>
 
-<strong> Figura 18. </strong> Ingreso a Rocky Linux de forma exitosa.
++ Seguido de ello, se procedió a configurar la pantalla de Kali Linux como se puede visualizar a continuación:
+
+<strong> Figura 18. </strong> Configuración de la pantalla de Kali Linux.
+
+
 
 <img width="589" height="343" alt="image" src="https://github.com/user-attachments/assets/d939dbeb-d0dd-4df1-9ca4-b6b93dcb0e49" /></br>
 
