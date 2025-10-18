@@ -97,83 +97,83 @@ pasos anteriores de la siguiente forma:
 
 <img width="589" height="419" alt="image" src="https://github.com/user-attachments/assets/54181e57-d0b6-49ce-a2e0-08e9965fc07b" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 17. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="373" alt="image" src="https://github.com/user-attachments/assets/c8e0497a-f6f8-48e8-bac4-3928087c2a35" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 18. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="343" alt="image" src="https://github.com/user-attachments/assets/d939dbeb-d0dd-4df1-9ca4-b6b93dcb0e49" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 19. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="348" alt="image" src="https://github.com/user-attachments/assets/db5fa76d-264f-4897-bc2e-640e34e7d842" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 20. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="517" alt="image" src="https://github.com/user-attachments/assets/7aafeed4-3fed-42aa-990e-e4f1a7e2ffc3" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 21. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="460" alt="image" src="https://github.com/user-attachments/assets/665b43b9-adff-43e9-9298-fcd23bb5f87c" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 22. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="441" alt="image" src="https://github.com/user-attachments/assets/13193151-0c99-4643-808e-8e6df5f86d47" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 23. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="446" alt="image" src="https://github.com/user-attachments/assets/b36a3aa9-3541-4678-a40c-1a9a47eb04f6" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 24. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="438" alt="image" src="https://github.com/user-attachments/assets/620c04be-327c-4b0c-98e2-163bf1a8408d" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 25. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="444" alt="image" src="https://github.com/user-attachments/assets/0b3a91b6-451f-40b2-b6fa-47503f2a0e90" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 26. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="445" alt="image" src="https://github.com/user-attachments/assets/083c2227-52e0-4a28-9c80-216af4697339" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 27. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="697" height="531" alt="image" src="https://github.com/user-attachments/assets/570e1bdd-2710-4911-8b2f-bba2f86bf5cc" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 28. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="688" height="525" alt="image" src="https://github.com/user-attachments/assets/b12696f2-ca07-4db4-85d2-e04d2c4e623b" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 29. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="592" height="451" alt="image" src="https://github.com/user-attachments/assets/e42b53aa-9910-45f5-83c8-b1d4bcce997c" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 30. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="443" alt="image" src="https://github.com/user-attachments/assets/24a78f2e-25a3-46e2-a122-3ab3080775a0" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 31. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/58c1a53f-b5a7-49ce-8479-29fe59ac1c66" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 32. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="450" alt="image" src="https://github.com/user-attachments/assets/20f906cf-1205-479d-a428-e12cce060bbd" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 33. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="586" height="393" alt="image" src="https://github.com/user-attachments/assets/9ec45a21-fdc7-481c-9075-aef0f070847c" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 34. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="589" height="448" alt="image" src="https://github.com/user-attachments/assets/61463369-0795-4e83-8901-70c6f83ebaed" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 35. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 <img width="562" height="442" alt="image" src="https://github.com/user-attachments/assets/c135856e-d172-40cc-bcbc-0f928b7479d6" /></br>
 
-<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 36. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 
 
