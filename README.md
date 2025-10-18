@@ -68,27 +68,30 @@
 
 <strong> Figura 11. </strong> Configuración del Destino de la Instalación.
 
-
++ A continuación, se puede visualizar que el proceso de instalación de Rocky Linux se está ejecutando de forma satisfactoria:
 
 <img width="589" height="307" alt="image" src="https://github.com/user-attachments/assets/46d3b3fa-427b-4c4c-a371-7fff17a73ba8" />
 
-<strong> Figura 12. </strong> Opciones interactivas de htop.
+<strong> Figura 12. </strong> Instalación de Rocky Linux (1).
 
 <img width="589" height="314" alt="image" src="https://github.com/user-attachments/assets/a126a490-09bd-4847-b699-f18f733a603a" />
 
-<strong> Figura 13. </strong> Opciones interactivas de htop.
+<strong> Figura 13. </strong> Instalación de Rocky Linux (2).
 
 <img width="589" height="305" alt="image" src="https://github.com/user-attachments/assets/bf59159f-e805-4ee1-8305-d287e2f00a67" />
 
-<strong> Figura 14. </strong> Opciones interactivas de htop.
+<strong> Figura 14. </strong> Instalación de Rocky Linux (3).
 
 <img width="589" height="281" alt="image" src="https://github.com/user-attachments/assets/32491649-81fe-4ba2-9eba-89b79deed253" />
 
-<strong> Figura 15. </strong> Opciones interactivas de htop.
++ Por último, es posible evidenciar que el proceso de instalación se efectuó exitosamente. Motivo por el cual, ya se puede ingresar al S.O Rocky Linux usando el usuario creado en los
+pasos anteriores de la siguiente forma:
+
+<strong> Figura 15. </strong> Instalación de Rocky Linux (4).
 
 <img width="589" height="140" alt="image" src="https://github.com/user-attachments/assets/b6677097-3595-4da8-b961-9fe0992c6461" />
 
-<strong> Figura 16. </strong> Opciones interactivas de htop.
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
 
 
 
