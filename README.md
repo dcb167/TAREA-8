@@ -157,15 +157,15 @@ pasos anteriores de la siguiente forma:
 
 <img width="589" height="445" alt="image" src="https://github.com/user-attachments/assets/083c2227-52e0-4a28-9c80-216af4697339" /></br>
 
-<strong> Figura 27. </strong> Configuración del Usuario y Contraseña en Kali Linux.
+<strong> Figura 27. </strong> Configuración del Usuario y Contraseña en Kali Linux (1).
 
 <img width="697" height="531" alt="image" src="https://github.com/user-attachments/assets/570e1bdd-2710-4911-8b2f-bba2f86bf5cc" /></br>
 
-<strong> Figura 28. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 28. </strong> Configuración del Usuario y Contraseña en Kali Linux (2).
 
 <img width="688" height="525" alt="image" src="https://github.com/user-attachments/assets/b12696f2-ca07-4db4-85d2-e04d2c4e623b" /></br>
 
-<strong> Figura 29. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 29. </strong> Configuración del Usuario y Contraseña en Kali Linux (3).
 
 <img width="592" height="451" alt="image" src="https://github.com/user-attachments/assets/e42b53aa-9910-45f5-83c8-b1d4bcce997c" /></br>
 
