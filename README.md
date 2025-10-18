@@ -199,7 +199,7 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 36. </strong> Proceso de Selección de programas.
 
-+ En quinto lugar, se procedio a realizar el Cargador de Arranque GRUB:
++ En quinto lugar, se procedió a instalar el Cargador de Arranque GRUB:
 
 <img width="798" height="610" alt="image" src="https://github.com/user-attachments/assets/9b1766f9-2972-4ae4-8d14-ca39077187c8" /></br>
 
@@ -209,15 +209,15 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 38. </strong> Cargador de Arranque GRUB (2).
 
-
++ En la siguiente imagen se puede visualizar el proceso de instalación de Kali Linux:
 
 <img width="799" height="579" alt="image" src="https://github.com/user-attachments/assets/7d44112f-1bff-4a51-a4a1-c657c6266633" /></br>
 
-<strong> Figura 39. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 39. </strong> Instalación de Kali Linux (1).
 
 <img width="798" height="604" alt="image" src="https://github.com/user-attachments/assets/8a69421d-aad2-49fa-a987-46eac99793ae" /></br>
 
-<strong> Figura 40. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 40. </strong> Instalación de Kali Linux (2).
 
 <img width="1129" height="639" alt="image" src="https://github.com/user-attachments/assets/c5bc2c09-0a0a-4213-8d9a-9048453f55a8" /></br>
 
