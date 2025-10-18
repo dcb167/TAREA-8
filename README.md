@@ -187,7 +187,8 @@ pasos anteriores de la siguiente forma:
 
 <img width="586" height="393" alt="image" src="https://github.com/user-attachments/assets/9ec45a21-fdc7-481c-9075-aef0f070847c" /></br>
 
-<strong> Figura 34. </strong> Proceso de Partición de Discos (4).
+<strong> Figura 34. </strong> Proceso de Partición de Discos (5).
+
 
 <img width="589" height="448" alt="image" src="https://github.com/user-attachments/assets/61463369-0795-4e83-8901-70c6f83ebaed" /></br>
 
