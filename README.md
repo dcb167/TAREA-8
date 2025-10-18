@@ -119,9 +119,11 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 20. </strong> Configuración del Sistema Base.
 
++ Luego, se procedió la instalación de la interfaz gráfica de Kali Linux:
+
 <img width="589" height="517" alt="image" src="https://github.com/user-attachments/assets/7aafeed4-3fed-42aa-990e-e4f1a7e2ffc3" /></br>
 
-<strong> Figura 21. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 21. </strong> Instalación de la Interfaz Gráfica de Kali Linux.
 
 <img width="589" height="460" alt="image" src="https://github.com/user-attachments/assets/665b43b9-adff-43e9-9298-fcd23bb5f87c" /></br>
 
