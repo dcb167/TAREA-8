@@ -203,6 +203,16 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 40. </strong> Ingreso a Rocky Linux de forma exitosa.
 
+<img width="1129" height="639" alt="image" src="https://github.com/user-attachments/assets/c5bc2c09-0a0a-4213-8d9a-9048453f55a8" /></br>
+
+<strong> Figura 41. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="800" height="599" alt="image" src="https://github.com/user-attachments/assets/c2df30ac-2f33-4c0d-8694-6520ebc0ecaa" /></br>
+
+<strong> Figura 42. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+
+
 
 
 
