@@ -273,6 +273,9 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 52. </strong> Instalación de la Máquina Virtual de Windows (10).
 
+### 4. Comunicación entre todas las Máquinas Virtuales
+
+
 
 
 
