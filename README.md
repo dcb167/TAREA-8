@@ -275,6 +275,20 @@ pasos anteriores de la siguiente forma:
 
 ### 4. Comunicación entre todas las Máquinas Virtuales
 
++ A continuación, se puede evidenciar la configuración de cada una de las IP para las máquinas virtuales. Esto con el objetivo de que se interconecten entre si:
+  
+<img width="1005" height="467" alt="image" src="https://github.com/user-attachments/assets/2cd11b75-d915-451e-a17c-3395148b81f0" /></br>
+
+<strong> Figura 53. </strong> Configuración de la IP para Windows.
+
+<img width="1299" height="861" alt="image" src="https://github.com/user-attachments/assets/fd9c68b0-741c-4046-b12d-a77e2f6f7777" /></br>
+
+<strong> Figura 54. </strong> Configuración de la IP para Kali Linux.
+
+<img width="1283" height="529" alt="image" src="https://github.com/user-attachments/assets/0283b74a-26f4-485f-8b64-f0e75cbfbac6" /></br>
+
+<strong> Figura 55. </strong> Configuración de la IP para Rocky Linux.
+
 
 
 
