@@ -6,7 +6,7 @@
 
 + En primer lugar, se realizó se creo la máquina virtual de Rocky Linux como se puede evidenciar enseguida:
 
-<img width="732" height="368" alt="image" src="https://github.com/user-attachments/assets/e5b2639c-f2a9-4662-8dd7-dbd3ca361572" />
+<img width="732" height="368" alt="image" src="https://github.com/user-attachments/assets/e5b2639c-f2a9-4662-8dd7-dbd3ca361572" /></br>
 
 <strong> Figura 1. </strong> Crear la MV de Rocky Linux.
 
@@ -93,20 +93,106 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 2. Máquina Virtual de Kali Linux
+
+<img width="589" height="419" alt="image" src="https://github.com/user-attachments/assets/54181e57-d0b6-49ce-a2e0-08e9965fc07b" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="373" alt="image" src="https://github.com/user-attachments/assets/c8e0497a-f6f8-48e8-bac4-3928087c2a35" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="343" alt="image" src="https://github.com/user-attachments/assets/d939dbeb-d0dd-4df1-9ca4-b6b93dcb0e49" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="348" alt="image" src="https://github.com/user-attachments/assets/db5fa76d-264f-4897-bc2e-640e34e7d842" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="517" alt="image" src="https://github.com/user-attachments/assets/7aafeed4-3fed-42aa-990e-e4f1a7e2ffc3" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="460" alt="image" src="https://github.com/user-attachments/assets/665b43b9-adff-43e9-9298-fcd23bb5f87c" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="441" alt="image" src="https://github.com/user-attachments/assets/13193151-0c99-4643-808e-8e6df5f86d47" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="446" alt="image" src="https://github.com/user-attachments/assets/b36a3aa9-3541-4678-a40c-1a9a47eb04f6" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="438" alt="image" src="https://github.com/user-attachments/assets/620c04be-327c-4b0c-98e2-163bf1a8408d" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="444" alt="image" src="https://github.com/user-attachments/assets/0b3a91b6-451f-40b2-b6fa-47503f2a0e90" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="445" alt="image" src="https://github.com/user-attachments/assets/083c2227-52e0-4a28-9c80-216af4697339" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="697" height="531" alt="image" src="https://github.com/user-attachments/assets/570e1bdd-2710-4911-8b2f-bba2f86bf5cc" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="688" height="525" alt="image" src="https://github.com/user-attachments/assets/b12696f2-ca07-4db4-85d2-e04d2c4e623b" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="592" height="451" alt="image" src="https://github.com/user-attachments/assets/e42b53aa-9910-45f5-83c8-b1d4bcce997c" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="443" alt="image" src="https://github.com/user-attachments/assets/24a78f2e-25a3-46e2-a122-3ab3080775a0" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/58c1a53f-b5a7-49ce-8479-29fe59ac1c66" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="450" alt="image" src="https://github.com/user-attachments/assets/20f906cf-1205-479d-a428-e12cce060bbd" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="586" height="393" alt="image" src="https://github.com/user-attachments/assets/9ec45a21-fdc7-481c-9075-aef0f070847c" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="589" height="448" alt="image" src="https://github.com/user-attachments/assets/61463369-0795-4e83-8901-70c6f83ebaed" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+<img width="562" height="442" alt="image" src="https://github.com/user-attachments/assets/c135856e-d172-40cc-bcbc-0f928b7479d6" />
+
+<strong> Figura 16. </strong> Ingreso a Rocky Linux de forma exitosa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 3. Máquina Virtual de Windows
