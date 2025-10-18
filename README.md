@@ -105,19 +105,19 @@ pasos anteriores de la siguiente forma:
 
 <img width="589" height="373" alt="image" src="https://github.com/user-attachments/assets/c8e0497a-f6f8-48e8-bac4-3928087c2a35" /></br>
 
-<strong> Figura 17. </strong> Configuración del Sistema de Kali Linux.
+<strong> Figura 18. </strong> Configuración del Sistema de Kali Linux.
 
 + Seguido de ello, se procedió a configurar la pantalla de Kali Linux como se puede visualizar a continuación:
 
-
-
-<strong> Figura 18. </strong> Configuración de la pantalla de Kali Linux.
-
-
-
 <img width="589" height="343" alt="image" src="https://github.com/user-attachments/assets/d939dbeb-d0dd-4df1-9ca4-b6b93dcb0e49" /></br>
 
-<strong> Figura 19. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 19. </strong> Configuración de la pantalla de Kali Linux.
+
+
+
+
+
+
 
 <img width="589" height="348" alt="image" src="https://github.com/user-attachments/assets/db5fa76d-264f-4897-bc2e-640e34e7d842" /></br>
 
