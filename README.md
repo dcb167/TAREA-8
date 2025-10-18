@@ -231,19 +231,48 @@ pasos anteriores de la siguiente forma:
 
 ### 3. Máquina Virtual de Windows
 
-<img width="589" height="469" alt="image" src="https://github.com/user-attachments/assets/05419d9a-d0d9-4521-a706-73557a8aa4e8" />
++ A continuación, se puede evidenciar el proceso de instalación de la Máquina Virtual de Windows de la siguiente manera:
 
-<img width="589" height="457" alt="image" src="https://github.com/user-attachments/assets/ecfb388c-0990-4bce-9774-13957ce30e85" />
+<img width="589" height="469" alt="image" src="https://github.com/user-attachments/assets/05419d9a-d0d9-4521-a706-73557a8aa4e8" /></br>
 
-<img width="589" height="465" alt="image" src="https://github.com/user-attachments/assets/536e0450-3ecc-4d5f-b30b-97eabf8027de" />
+<strong> Figura 43. </strong> Instalación de la Máquina Virtual de Windows (1).
 
-<img width="589" height="462" alt="image" src="https://github.com/user-attachments/assets/d787c999-4deb-4733-ac6d-af77b62811c7" />
+<img width="589" height="457" alt="image" src="https://github.com/user-attachments/assets/ecfb388c-0990-4bce-9774-13957ce30e85" /></br>
 
-<img width="589" height="414" alt="image" src="https://github.com/user-attachments/assets/7a0f9c0c-6619-453a-a810-d02be9fb2e59" />
+<strong> Figura 44. </strong> Instalación de la Máquina Virtual de Windows (2).
 
-<img width="589" height="419" alt="image" src="https://github.com/user-attachments/assets/b404e1fa-011b-4b15-a75f-3e4b4881ed7f" />
+<img width="589" height="465" alt="image" src="https://github.com/user-attachments/assets/536e0450-3ecc-4d5f-b30b-97eabf8027de" /></br>
 
-<img width="589" height="424" alt="image" src="https://github.com/user-attachments/assets/e66cc9cb-3bfc-4af0-805d-54f7ab320ebc" />
+<strong> Figura 45. </strong> Instalación de la Máquina Virtual de Windows (3).
+
+<img width="589" height="462" alt="image" src="https://github.com/user-attachments/assets/d787c999-4deb-4733-ac6d-af77b62811c7" /></br>
+
+<strong> Figura 46. </strong> Instalación de la Máquina Virtual de Windows (4).
+
+<img width="589" height="414" alt="image" src="https://github.com/user-attachments/assets/7a0f9c0c-6619-453a-a810-d02be9fb2e59" /></br>
+
+<strong> Figura 47. </strong> Instalación de la Máquina Virtual de Windows (5).
+
+<img width="589" height="419" alt="image" src="https://github.com/user-attachments/assets/b404e1fa-011b-4b15-a75f-3e4b4881ed7f" /></br>
+
+<strong> Figura 48. </strong> Instalación de la Máquina Virtual de Windows (6).
+
+<img width="589" height="424" alt="image" src="https://github.com/user-attachments/assets/e66cc9cb-3bfc-4af0-805d-54f7ab320ebc" /></br>
+
+<strong> Figura 49. </strong> Instalación de la Máquina Virtual de Windows (7).
+
+<img width="589" height="417" alt="image" src="https://github.com/user-attachments/assets/17df84d3-36f8-45f8-abb2-494240045284" /></br>
+
+<strong> Figura 50. </strong> Instalación de la Máquina Virtual de Windows (8).
+
+<img width="589" height="374" alt="image" src="https://github.com/user-attachments/assets/bf65c86d-3b03-49ec-a16f-7bdd54d11881" /></br>
+
+<strong> Figura 51. </strong> Instalación de la Máquina Virtual de Windows (9).
+
+<img width="589" height="437" alt="image" src="https://github.com/user-attachments/assets/746b6245-b80f-4c5c-aa44-829e0af24e3a" /></br>
+
+<strong> Figura 52. </strong> Instalación de la Máquina Virtual de Windows (10).
+
 
 
 
