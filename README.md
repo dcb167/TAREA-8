@@ -199,15 +199,17 @@ pasos anteriores de la siguiente forma:
 
 <strong> Figura 36. </strong> Proceso de Selección de programas.
 
-+ En quinto lugar, 
++ En quinto lugar, se procedio a realizar el Cargador de Arranque GRUB:
 
 <img width="798" height="610" alt="image" src="https://github.com/user-attachments/assets/9b1766f9-2972-4ae4-8d14-ca39077187c8" /></br>
 
-<strong> Figura 37. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 37. </strong> Cargador de Arranque GRUB (1).
 
 <img width="801" height="599" alt="image" src="https://github.com/user-attachments/assets/dd3cdd42-59c8-4e20-8263-baa961de2dc0" /></br>
 
-<strong> Figura 38. </strong> Ingreso a Rocky Linux de forma exitosa.
+<strong> Figura 38. </strong> Cargador de Arranque GRUB (2).
+
+
 
 <img width="799" height="579" alt="image" src="https://github.com/user-attachments/assets/7d44112f-1bff-4a51-a4a1-c657c6266633" /></br>
 
